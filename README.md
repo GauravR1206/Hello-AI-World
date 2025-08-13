@@ -58,8 +58,8 @@ Chain them for instant smiles.
 
 ```bash
 #Write command to clone this repo
-git clone <REPO_URL>
-cd <REPO_DIRECTORY>
+git clone git@github.com:GauravR1206/Hello-AI-World.git
+cd Hello-AI-World
 ```
 
 ### Step 2 – Install Dependencies
