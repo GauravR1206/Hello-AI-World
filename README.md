@@ -57,7 +57,6 @@ Chain them for instant smiles.
 ### Step 1 – Add Project Files
 
 ```bash
-#Write command to clone this repo
 git clone git@github.com:GauravR1206/Hello-AI-World.git
 cd Hello-AI-World
 ```
