@@ -56,9 +56,11 @@ Chain them for instant smiles.
 
 ### Step 1 – Add Project Files
 
-`git clone `
-
-`train.py`: Your training script for a VAE (provided in the session).
+```bash
+#Write command to clone this repo
+git clone <REPO_URL>
+cd <REPO_DIRECTORY>
+```
 
 ### Step 2 – Install Dependencies
 
