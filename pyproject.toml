@@ -1,0 +1,14 @@
+[project]
+name = "ai-summer-school"
+version = "0.1.0"
+description = "UV_Demo"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=4.0.0",
+    "kagglehub>=0.3.12",
+    "matplotlib>=3.10.5",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "wandb>=0.21.1",
+]
