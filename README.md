@@ -41,8 +41,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 With `uvx`, you can run CLI tools instantly without installing them permanently:
 
 ```bash
-uvx fortune | uvx cowsay
-uvx cowsay "Hello AI World!"
+uvx cowsay "Hello AI Scholars!"
 ```
 
 * **fortune** prints a random quote
