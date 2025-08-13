@@ -56,20 +56,7 @@ Chain them for instant smiles.
 
 ### Step 1 – Add Project Files
 
-`pyproject.toml`:
-
-```toml
-[project]
-name = "vae-trainer"
-version = "0.1.0"
-description = "Train a simple VAE with PyTorch"
-requires-python = ">=3.10"
-
-[tool.uv.dependencies]
-torch = "*"
-torchvision = "*"
-numpy = "*"
-```
+`git clone `
 
 `train.py`: Your training script for a VAE (provided in the session).
 
