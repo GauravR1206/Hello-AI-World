@@ -71,11 +71,7 @@ This creates & populates your virtual environment from `pyproject.toml`.
 ### Step 3 – Train the Model
 
 ```bash
-uv run python train.py
-```
-
-`uv run` ensures the right environment is used—no manual activation needed.
-
+python train_VAE.py --epochs 20 --latent_dim 2```
 ---
 
 **🎉 That's it!** You’ve learned how to:
